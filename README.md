@@ -1,7 +1,5 @@
 ## 🎥 Análise de Vídeos no YouTube - Dashboard de Anúncios de Vídeos - Tableau
 
-[![Ver o Dashboard Online](https://img.shields.io/badge/Ver%20Dashboard-Tableau-FF6600?style=for-the-badge)](https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes))
-
 ## Descrição
 
 Criação de dashboard automatizado para análise de tendências de vídeos do YouTube para uma agência de publicidade com visualizações dinâmicas
