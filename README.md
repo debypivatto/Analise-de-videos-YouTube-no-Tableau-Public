@@ -1,25 +1,17 @@
-# Analise-de-videos-YouTube-no-Tableau-Public
-Objetivo dos negócios: analisar o histórico de vídeos de tendências no YouTube, o dashboard será usado: pelo menos uma vez por dia
-Usuário do dashboard de destino: gerentes de planejamento de anúncios em vídeo
-Conteúdo de dados do dashboard: Vídeos de tendências do passado, divididos por dia e categoria, divididos por países
-Parâmetros segundo os quais os dados devem ser agrupados: Data e hora da tendência, categoria de vídeo, país
-Histórico de tendências — valores absolutos com divisão por dia (dois gráficos: números absolutos e proporção percentual)
-Eventos, discriminados por países — valores relativos (% de eventos)
-A correspondência entre as categorias e os países — valores absolutos 
+# Dashboard de Anúncios de Vídeos - Tableau
 
-Fontes de dados para o dashboard: os engenheiros de dados prometeram criar uma tabela agregada chamada trending_by_time. 
-Segue sua estrutura:
-record_id — chave primária
-region — país / região geográfica
-trending_date — data e hora
-category_title — a categoria de vídeo
-videos_count — o número de vídeos na seção de tendências
-A tabela fica armazenada no banco de dados do youtube , criado especialmente para suas necessidades
-Intervalo de atualização de dados: uma vez a cada 24 horas, à meia-noite UT
-O dashboard responde as perguntas
-Quais categorias de vídeo estão em alta com mais frequência?
-Como foram distribuídos entre as regiões?
-Quais categorias foram especialmente populares nos Estados Unidos? Houve alguma diferença entre as categorias populares nos EUA e as populares em outros lugares?C
+[![Ver o Dashboard Online](https://img.shields.io/badge/Ver%20Dashboard-Tableau-FF6600?style=for-the-badge)](https://public.tableau.com/app/profiledebora.pivatto/viz/Sprint12project/Dashboard1?publish=yes)
+
+## Descrição
+
+Criação de dashboard automatizado para análise de tendências de vídeos do YouTube para uma agência de publicidade com visualizações dinâmicas
+
+Este dashboard interativo foi criado no **Tableau Public** para analisar anúncios de vídeos, explorando métricas como tendências, engajamento e volume de publicações. 
+
+O projeto inclui também uma apresentação em PDF que resume os principais insights e resultados do dashboard.
 
 
-https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes
+## Como visualizar
+- **Dashboard Online:** [Clique aqui para abrir no Tableau Public](https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes)
+- **PDF da Apresentação:** 'apresentacao_dashboard.pdf' (incluído neste repositório)  
+  - O PDF resume o dashboard, destaca insights principais e fornece contexto analítico para tomada de decisão.
