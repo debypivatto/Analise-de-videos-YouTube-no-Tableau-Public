@@ -11,5 +11,5 @@ O projeto inclui também uma apresentação em PPTX que resume os principais ins
 
 ## Como visualizar
 - **Dashboard Online:** [Clique aqui para abrir no Tableau Public](https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes)
-- **PPTX da Apresentação:** '[apresentacao_dashboard.pdf](https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public/blob/main/Analise_Tendencias_Videos_YouTube_2017_2018%20(1)%20(1).pptx)' (incluído neste repositório)  
+- **PPTX da Apresentação:** 'Analise_Tendencias_Videos_YouTube_2017_2018%20(1)%20(1).pptx](https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public/blob/main/Analise_Tendencias_Videos_YouTube_2017_2018%20(1)%20(1).pptx)' (incluído neste repositório)  
   - O arquivo resume o dashboard, destaca insights principais e fornece contexto analítico para tomada de decisão.
