@@ -8,7 +8,7 @@ Criação de dashboard automatizado para análise de tendências de vídeos do Y
 
 Este dashboard interativo foi criado no **Tableau Public** para analisar anúncios de vídeos, explorando métricas como tendências, engajamento e volume de publicações. 
 
-O projeto inclui também uma apresentação em PDF que resume os principais insights e resultados do dashboard.
+O projeto inclui também uma apresentação em PPTX que resume os principais insights e resultados do dashboard.
 
 
 ## Como visualizar
